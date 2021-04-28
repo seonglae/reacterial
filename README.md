@@ -19,6 +19,9 @@ yarn start
 ### Develop Tools
 
 - Prettier
+- Github Actions
+  - Build Pipeline - CI
+  - Github Page - CD
 
 ## Philosophy
 
