@@ -13,7 +13,7 @@
     "react-scripts": "4.0.3",
     "redux": "^4.0.5"
   },
-  "homepage": "/react-js-template",
+  "homepage": "https://seonglae.github.io/react-js-template",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
