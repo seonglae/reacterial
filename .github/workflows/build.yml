@@ -27,4 +27,4 @@ jobs:
         run: yarn
 
       - name: Make Static folder
-        run: yarn generate
+        run: yarn build
