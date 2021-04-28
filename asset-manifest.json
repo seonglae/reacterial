@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react-js-template/static/js/main.d77b33bb.chunk.js",
-    "main.js.map": "/react-js-template/static/js/main.d77b33bb.chunk.js.map",
+    "main.js": "/react-js-template/static/js/main.dfa9b719.chunk.js",
+    "main.js.map": "/react-js-template/static/js/main.dfa9b719.chunk.js.map",
     "runtime-main.js": "/react-js-template/static/js/runtime-main.443c4cbf.js",
     "runtime-main.js.map": "/react-js-template/static/js/runtime-main.443c4cbf.js.map",
     "static/js/2.0bddbdfa.chunk.js": "/react-js-template/static/js/2.0bddbdfa.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.443c4cbf.js",
     "static/js/2.0bddbdfa.chunk.js",
-    "static/js/main.d77b33bb.chunk.js"
+    "static/js/main.dfa9b719.chunk.js"
   ]
 }
