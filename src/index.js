@@ -8,12 +8,11 @@ import store from "./store"
 import Index from "./pages"
 import pkg from "../package.json"
 
+// Base Path For Github Pages
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter basename={`/${pkg.name}`}>
     <Provider store={store}>
       <Route exact path="/" component={Index} />
-      {/* For Github Pages */}
-      <Route exact path={`/${pkg.name}`} component={Index} />
     </Provider>
   </BrowserRouter>,
   document.getElementById("root"),
