@@ -8,6 +8,7 @@ import { BrowserRouter, Route } from "react-router-dom"
 import store from "./store"
 import Index from "./pages"
 import pkg from "../package.json"
+console.log(process.env.BASE , "asdsd")
 
 dotenv.config()
 
