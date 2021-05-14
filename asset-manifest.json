@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/react-js-template/static/js/main.dfa9b719.chunk.js",
-    "main.js.map": "/react-js-template/static/js/main.dfa9b719.chunk.js.map",
-    "runtime-main.js": "/react-js-template/static/js/runtime-main.443c4cbf.js",
-    "runtime-main.js.map": "/react-js-template/static/js/runtime-main.443c4cbf.js.map",
-    "static/js/2.0bddbdfa.chunk.js": "/react-js-template/static/js/2.0bddbdfa.chunk.js",
-    "static/js/2.0bddbdfa.chunk.js.map": "/react-js-template/static/js/2.0bddbdfa.chunk.js.map",
-    "index.html": "/react-js-template/index.html",
-    "static/js/2.0bddbdfa.chunk.js.LICENSE.txt": "/react-js-template/static/js/2.0bddbdfa.chunk.js.LICENSE.txt"
+    "main.js": "/reacterial/static/js/main.d4f50fcb.chunk.js",
+    "main.js.map": "/reacterial/static/js/main.d4f50fcb.chunk.js.map",
+    "runtime-main.js": "/reacterial/static/js/runtime-main.c3a2fb97.js",
+    "runtime-main.js.map": "/reacterial/static/js/runtime-main.c3a2fb97.js.map",
+    "static/js/2.b853c1fe.chunk.js": "/reacterial/static/js/2.b853c1fe.chunk.js",
+    "static/js/2.b853c1fe.chunk.js.map": "/reacterial/static/js/2.b853c1fe.chunk.js.map",
+    "index.html": "/reacterial/index.html",
+    "static/js/2.b853c1fe.chunk.js.LICENSE.txt": "/reacterial/static/js/2.b853c1fe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.443c4cbf.js",
-    "static/js/2.0bddbdfa.chunk.js",
-    "static/js/main.dfa9b719.chunk.js"
+    "static/js/runtime-main.c3a2fb97.js",
+    "static/js/2.b853c1fe.chunk.js",
+    "static/js/main.d4f50fcb.chunk.js"
   ]
 }
