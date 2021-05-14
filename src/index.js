@@ -9,6 +9,8 @@ import store from "./store"
 import Index from "./pages"
 import pkg from "../package.json"
 
+import "./assets/default.css"
+
 dotenv.config()
 
 // Base Path For Github Pages
