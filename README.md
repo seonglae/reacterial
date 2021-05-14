@@ -1,6 +1,7 @@
 # Minimal React Create App JS Template
 
-[Demo](https://seonglae.github.io/react-js-template)
+- [Github Action Demo](https://seonglae.github.io/reacterial)
+- [Vercel Demo](https://reacterial.vercel.com)
 
 ## Get Started
 
