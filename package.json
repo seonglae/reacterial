@@ -1,5 +1,5 @@
 {
-  "name": "react-js-template",
+  "name": "reacterial",
   "version": "0.1.0",
   "license": "MIT",
   "dependencies": {
@@ -13,10 +13,11 @@
     "react-scripts": "4.0.3",
     "redux": "^4.0.5"
   },
-  "homepage": "https://seonglae.github.io/react-js-template",
+  "homepage": "https://seonglae.github.io/reacterial",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "gh": "cross-env BASE=reacterial react-scripts build",
     "eject": "react-scripts eject",
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
@@ -29,5 +30,8 @@
   "browserslist": {
     "production": [],
     "development": []
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
   }
 }
