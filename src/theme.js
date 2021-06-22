@@ -11,10 +11,13 @@ const useStyles = makeStyles(() => ({
     color: "white",
   },
   greycolor: {
-    color: "#dddddddd",
+    color: "#99aabb",
   },
   darkback: {
     background: "#242433",
+  },
+  lighter: {
+    fontWeight: "normal",
   },
 }))
 
