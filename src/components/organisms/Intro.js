@@ -9,8 +9,8 @@ const Intro = () => {
 
   return (
     <Grid container direction="column" justify="center" alignItems="center" className={theme.intro}>
-      <h1 className={`${theme.nomargin} ${theme.whitecolor}`}>Reacterial</h1>
-      <h3 className={`${theme.nomargin} ${theme.greycolor}`}>Material UI + React</h3>
+      <h1 className={`${theme.nomargin} ${theme.whitecolor} ${theme.lighter}`}>Reacterial</h1>
+      <h3 className={`${theme.nomargin} ${theme.greycolor} ${theme.lighter}`}>Material UI + React</h3>
     </Grid>
   )
 }
